@@ -1,0 +1,92 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(78, 70, 60);
+    font-size: 15px;
+
+}
+
+
+
+body{
+    background-color: rgb(218, 182, 134);
+    padding-top: 0%;    
+}
+
+
+h1, h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+    color:rgb(78, 70, 60);
+    font-size: 20px;
+}
+
+:root {
+    --menu-display: flex;
+  }
+  
+
+body{
+    background-color: rgb(218, 182, 134);
+    padding-top: 0%;    
+}
+
+
+h1, h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-decoration: underline;
+    color:rgb(78, 70, 60);
+    font-size: 30px;
+}
+
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(78, 70, 60);
+    font-size: 25px;
+}
+
+
+nav{
+    background-color:rgb(78, 70, 60);
+    height: 70px;
+    flex-direction: column;
+    height: auto;
+    bottom: 0;
+    top: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+nav a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:  rgb(218, 182, 134);
+    font-size: 35px;
+    letter-spacing: 2px;
+    padding: 2px 50px;
+
+    
+}
+
+nav a:hover{
+    color: rgba(250, 235, 215, 0.658);
+}
+
+
+img{
+    height: 200px;
+    
+}
+
+input{
+    background-color: rgb(78, 70, 60) ;
+    color:rgb(218, 182, 134);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+button{
+    background-color: rgb(78, 70, 60) ;
+    color:rgb(218, 182, 134);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
